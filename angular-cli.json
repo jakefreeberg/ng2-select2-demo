@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.25.5",
-    "name": "ng2-select2-demo"
+    "name": "sps-angular-select2-demo"
   },
   "apps": [
     {

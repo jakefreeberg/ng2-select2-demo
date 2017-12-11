@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../../../services/data.service';
-import { Select2OptionData } from 'ng2-select2';
+import { Select2OptionData } from 'sps-angular-select2';
 
 @Component({
   selector: 'app-change',
